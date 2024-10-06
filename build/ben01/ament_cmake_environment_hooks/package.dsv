@@ -1,0 +1,4 @@
+source;share/ben01/local_setup.bash
+source;share/ben01/local_setup.dsv
+source;share/ben01/local_setup.sh
+source;share/ben01/local_setup.zsh

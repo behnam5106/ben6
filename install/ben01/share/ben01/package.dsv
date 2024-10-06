@@ -1,0 +1,8 @@
+source;share/ben01/hook/cmake_prefix_path.ps1
+source;share/ben01/hook/cmake_prefix_path.dsv
+source;share/ben01/hook/cmake_prefix_path.sh
+source;share/ben01/local_setup.bash
+source;share/ben01/local_setup.dsv
+source;share/ben01/local_setup.ps1
+source;share/ben01/local_setup.sh
+source;share/ben01/local_setup.zsh

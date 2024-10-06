@@ -1,0 +1,1 @@
+/home/ben/workspace/ben6/build/ben01/ament_cmake_environment_hooks/local_setup.sh
