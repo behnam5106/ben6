@@ -1,6 +1,0 @@
-Invoking command in '/home/ben/workspace/ben6/build/ben01': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ben/workspace/ben6/src/ben01 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ben/workspace/ben6/install/ben01
-Invoked command in '/home/ben/workspace/ben6/build/ben01' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ben/workspace/ben6/src/ben01 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ben/workspace/ben6/install/ben01
-Invoking command in '/home/ben/workspace/ben6/build/ben01': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ben/workspace/ben6/build/ben01 -- -j2 -l2
-Invoked command in '/home/ben/workspace/ben6/build/ben01' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ben/workspace/ben6/build/ben01 -- -j2 -l2
-Invoking command in '/home/ben/workspace/ben6/build/ben01': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ben/workspace/ben6/build/ben01
-Invoked command in '/home/ben/workspace/ben6/build/ben01' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ben/workspace/ben6/build/ben01

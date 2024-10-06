@@ -310,6 +310,9 @@ message(STATUS "Execute custom install script")
 
 # begin of custom install code
 
+# install(DIRECTORY "config" "description" "launch" "worlds" "DESTINATION" "share/ben01")
+ament_cmake_symlink_install_directory("/home/ben/workspace/ben6/src/ben01" DIRECTORY "config" "description" "launch" "worlds" "DESTINATION" "share/ben01")
+
 # install(FILES "/home/ben/workspace/ben6/build/ben01/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/ben01" "DESTINATION" "share/ament_index/resource_index/package_run_dependencies")
 ament_cmake_symlink_install_files("/home/ben/workspace/ben6/src/ben01" FILES "/home/ben/workspace/ben6/build/ben01/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/ben01" "DESTINATION" "share/ament_index/resource_index/package_run_dependencies")
 

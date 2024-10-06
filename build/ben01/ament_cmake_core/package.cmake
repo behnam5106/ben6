@@ -1,6 +1,6 @@
 set(_AMENT_PACKAGE_NAME "ben01")
 set(ben01_VERSION "0.0.0")
-set(ben01_MAINTAINER "ben <behnam5106@gmail.com>")
+set(ben01_MAINTAINER "Ben <behnamjadidi.dk@email.com>")
 set(ben01_BUILD_DEPENDS )
 set(ben01_BUILDTOOL_DEPENDS "ament_cmake")
 set(ben01_BUILD_EXPORT_DEPENDS )

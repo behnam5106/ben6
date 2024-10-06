@@ -1,0 +1,53 @@
+[0.019s] Invoking command in '/home/ben/workspace/ben6/build/ben01': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/ben/workspace/ben6/src/ben01 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ben/workspace/ben6/install/ben01
+[0.301s] -- The C compiler identification is GNU 11.4.0
+[0.498s] -- The CXX compiler identification is GNU 11.4.0
+[0.522s] -- Detecting C compiler ABI info
+[0.760s] -- Detecting C compiler ABI info - done
+[0.774s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.775s] -- Detecting C compile features
+[0.777s] -- Detecting C compile features - done
+[0.786s] -- Detecting CXX compiler ABI info
+[0.967s] -- Detecting CXX compiler ABI info - done
+[0.976s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.976s] -- Detecting CXX compile features
+[0.978s] -- Detecting CXX compile features - done
+[0.989s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.232s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.336s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.435s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.659s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.679s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.681s] -- Added test 'lint_cmake' to check CMake code style
+[1.683s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.692s] -- Added test 'xmllint' to check XML markup files
+[1.703s] -- Configuring done
+[1.714s] -- Generating done
+[1.720s] -- Build files have been written to: /home/ben/workspace/ben6/build/ben01
+[1.733s] Invoked command in '/home/ben/workspace/ben6/build/ben01' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/ben/workspace/ben6/src/ben01 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ben/workspace/ben6/install/ben01
+[1.735s] Invoking command in '/home/ben/workspace/ben6/build/ben01': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ben/workspace/ben6/build/ben01 -- -j2 -l2
+[1.844s] Invoked command in '/home/ben/workspace/ben6/build/ben01' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ben/workspace/ben6/build/ben01 -- -j2 -l2
+[1.931s] Invoking command in '/home/ben/workspace/ben6/build/ben01': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ben/workspace/ben6/build/ben01
+[1.946s] -- Install configuration: ""
+[1.947s] -- Execute custom install script
+[1.948s] -- Symlinking: /home/ben/workspace/ben6/install/ben01/share/ben01/config/empty.yaml
+[1.971s] -- Symlinking: /home/ben/workspace/ben6/install/ben01/share/ben01/description/inertial_macros.xacro
+[1.988s] -- Symlinking: /home/ben/workspace/ben6/install/ben01/share/ben01/description/robot.urdf.xacro
+[2.005s] -- Symlinking: /home/ben/workspace/ben6/install/ben01/share/ben01/description/robot_core.xacro
+[2.022s] -- Symlinking: /home/ben/workspace/ben6/install/ben01/share/ben01/launch/rsp.launch.py
+[2.042s] -- Symlinking: /home/ben/workspace/ben6/install/ben01/share/ben01/worlds/empty.world
+[2.063s] -- Symlinking: /home/ben/workspace/ben6/install/ben01/share/ament_index/resource_index/package_run_dependencies/ben01
+[2.082s] -- Symlinking: /home/ben/workspace/ben6/install/ben01/share/ament_index/resource_index/parent_prefix_path/ben01
+[2.099s] -- Symlinking: /home/ben/workspace/ben6/install/ben01/share/ben01/environment/ament_prefix_path.sh
+[2.115s] -- Symlinking: /home/ben/workspace/ben6/install/ben01/share/ben01/environment/ament_prefix_path.dsv
+[2.139s] -- Symlinking: /home/ben/workspace/ben6/install/ben01/share/ben01/environment/path.sh
+[2.162s] -- Symlinking: /home/ben/workspace/ben6/install/ben01/share/ben01/environment/path.dsv
+[2.182s] -- Symlinking: /home/ben/workspace/ben6/install/ben01/share/ben01/local_setup.bash
+[2.201s] -- Symlinking: /home/ben/workspace/ben6/install/ben01/share/ben01/local_setup.sh
+[2.220s] -- Symlinking: /home/ben/workspace/ben6/install/ben01/share/ben01/local_setup.zsh
+[2.245s] -- Symlinking: /home/ben/workspace/ben6/install/ben01/share/ben01/local_setup.dsv
+[2.266s] -- Symlinking: /home/ben/workspace/ben6/install/ben01/share/ben01/package.dsv
+[2.296s] -- Symlinking: /home/ben/workspace/ben6/install/ben01/share/ament_index/resource_index/packages/ben01
+[2.329s] -- Symlinking: /home/ben/workspace/ben6/install/ben01/share/ben01/cmake/ben01Config.cmake
+[2.351s] -- Symlinking: /home/ben/workspace/ben6/install/ben01/share/ben01/cmake/ben01Config-version.cmake
+[2.370s] -- Symlinking: /home/ben/workspace/ben6/install/ben01/share/ben01/package.xml
+[2.410s] Invoked command in '/home/ben/workspace/ben6/build/ben01' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ben/workspace/ben6/build/ben01

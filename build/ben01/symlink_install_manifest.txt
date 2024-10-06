@@ -1,3 +1,9 @@
+/home/ben/workspace/ben6/install/ben01/share/ben01/config/empty.yaml
+/home/ben/workspace/ben6/install/ben01/share/ben01/description/inertial_macros.xacro
+/home/ben/workspace/ben6/install/ben01/share/ben01/description/robot.urdf.xacro
+/home/ben/workspace/ben6/install/ben01/share/ben01/description/robot_core.xacro
+/home/ben/workspace/ben6/install/ben01/share/ben01/launch/rsp.launch.py
+/home/ben/workspace/ben6/install/ben01/share/ben01/worlds/empty.world
 /home/ben/workspace/ben6/install/ben01/share/ament_index/resource_index/package_run_dependencies/ben01
 /home/ben/workspace/ben6/install/ben01/share/ament_index/resource_index/parent_prefix_path/ben01
 /home/ben/workspace/ben6/install/ben01/share/ben01/environment/ament_prefix_path.sh
